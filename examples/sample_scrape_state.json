@@ -1,0 +1,20 @@
+{
+  "job": "bakeries|Springfield, USA",
+  "done_count": 3,
+  "pending": [
+    {
+      "name": "Placeholder Pastries",
+      "website": "https://www.placeholder-pastries.test/",
+      "address": "15 Example Lane, Springfield, USA",
+      "phone": "(555) 010-0104",
+      "maps_url": "https://www.google.com/maps/place/Placeholder+Pastries"
+    },
+    {
+      "name": "Fictional Bread House",
+      "website": "https://www.fictional-bread.test/",
+      "address": "48 Sample Court, Springfield, USA",
+      "phone": "(555) 010-0105",
+      "maps_url": "https://www.google.com/maps/place/Fictional+Bread+House"
+    }
+  ]
+}

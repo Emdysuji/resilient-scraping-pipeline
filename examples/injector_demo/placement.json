@@ -1,0 +1,10 @@
+{
+  "placement": {
+    "position": "after",
+    "candidates": [
+      { "anchor": "<section id=\"services\">", "selector": "#services" },
+      { "anchor": "<h2>Our Services</h2>" }
+    ],
+    "instruction": "Place the estimate tool directly after the Services section."
+  }
+}

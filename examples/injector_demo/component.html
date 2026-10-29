@@ -1,0 +1,29 @@
+<section id="instant-estimate" style="padding:32px 8%;background:#e8f1fb;">
+  <h2>Get an Instant Estimate</h2>
+  <p>Answer two quick questions to see a rough price range. (Demo values only.)</p>
+  <label>Job size:
+    <select id="est-size">
+      <option value="1">Small</option>
+      <option value="2">Medium</option>
+      <option value="3">Large</option>
+    </select>
+  </label>
+  <label style="margin-left:16px;">Urgency:
+    <select id="est-urgency">
+      <option value="1">Standard</option>
+      <option value="1.5">Urgent</option>
+    </select>
+  </label>
+  <button id="est-go" style="margin-left:16px;padding:6px 14px;">Show estimate</button>
+  <p id="est-result" style="font-weight:600;margin-top:16px;"></p>
+  <script>
+    document.getElementById("est-go").addEventListener("click", function () {
+      var size = parseFloat(document.getElementById("est-size").value);
+      var urgency = parseFloat(document.getElementById("est-urgency").value);
+      var low = Math.round(150 * size * urgency);
+      var high = Math.round(250 * size * urgency);
+      document.getElementById("est-result").textContent =
+        "Estimated range: $" + low + " to $" + high;
+    });
+  </script>
+</section>

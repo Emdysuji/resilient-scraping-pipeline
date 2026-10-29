@@ -1,0 +1,23 @@
+1).
+Organization Name: Example Bakery Co.
+Organization Website: https://www.example-bakery.test/
+Organization Email: hello@example-bakery.test
+Organization Address: 100 Sample Street, Springfield, USA
+Organization Phone Number: (555) 010-0101
+Google Maps URL: https://www.google.com/maps/place/Example+Bakery+Co
+
+2).
+Organization Name: Sample Florist & Gifts
+Organization Website: https://www.sample-florist.test/
+Organization Email: None found
+Organization Address: 22 Placeholder Avenue, Springfield, USA
+Organization Phone Number: (555) 010-0102
+Google Maps URL: https://www.google.com/maps/place/Sample+Florist+and+Gifts
+
+3).
+Organization Name: Demo Hardware Supply
+Organization Website: https://www.demo-hardware.test/
+Organization Email: sales@demo-hardware.test, support@demo-hardware.test
+Organization Address: 7 Fictional Road, Springfield, USA
+Organization Phone Number: (555) 010-0103
+Google Maps URL: https://www.google.com/maps/place/Demo+Hardware+Supply
