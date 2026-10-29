@@ -163,7 +163,7 @@ Scraping Google Maps may violate Google's Terms of Service. This project is shar
 
 ## 📩 Contact
 
-For collaboration or commercial discussions, reach out through [LinkedIn](https://www.linkedin.com/in/michael-daivd-osuji-b1811a208/) or [ChronoCogna](https://www.chronocogna.com/).
+For collaboration or commercial discussions, reach out through [LinkedIn](https://www.linkedin.com/in/michael-david-osuji) or [ChronoCogna](https://www.chronocogna.com/).
 
 <div align="center">
 
